@@ -10,4 +10,4 @@ The application is built using html, css and JavaScript. It utilizes Bootstrap ,
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License [licence.txt](/licence.txt)
